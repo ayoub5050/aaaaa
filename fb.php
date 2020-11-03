@@ -53,9 +53,9 @@ $banner = $red." _____ ____    ____  _____
 |  _| | |_) | | |_) |  _|
 |_|   |____/  |____/|_|
 ".$blue."Facebook Bruteforce
-".$cyan."Author: Riski Darmawan\n\n".$nc;
+".$cyan."Author: Ayoubboukadida\n\n".$nc;
 $file = $_SERVER[argv][1];
-echo "$white Masukkan ID Target:$yellow ";
+echo "$white  ID al 8a7ia :$yellow ";
 $user = trim(fgets(STDIN));
 echo "$white Tulis password.txt:$yellow ";
 $wordlist = trim(fgets(STDIN));
